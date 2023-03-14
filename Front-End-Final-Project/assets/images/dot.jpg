@@ -1,0 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL was not found on this server.</p>
+<p>Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" data-cf-beacon="{"rayId":"7a3a20433ef60c25","version":"2023.2.0","r":1,"token":"f0504b75471641599863d12d9668259a","si":100}" crossorigin="anonymous"></script>
+</body></html>
